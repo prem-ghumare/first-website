@@ -1,3 +1,0 @@
-# Readme - Prem's Code
-This is my readme.md file , Here i am writing my DATA SCIENCE code...
-## Let you walk you through this project
